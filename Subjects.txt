@@ -1,0 +1,311 @@
+MATH:: Mathematics | SO: quantity, structure, space, change.
+  -> PURE:: Pure Mathematics | SO: abstract mathematical structures, concepts.
+    -> ALG:: Algebra | SO: structures like groups, rings, fields | EX: Abstract Algebra, Linear Algebra, Boolean Algebra, Lie Algebra.
+    -> GEO:: Geometry | SO: shapes, sizes, space properties | EX: Euclidean, Non-Euclidean, Differential Geometry, Algebraic Geometry.
+    -> TOP:: Topology | SO: spatial properties under continuous transformations | EX: Point-Set Topology, Algebraic Topology.
+    -> NUM:: Number Theory | SO: integers and integer-related properties | EX: Arithmetic, Diophantine Equations, Analytic Number Theory.
+    -> ANAL:: Analysis | SO: limits, continuity, convergence | EX: Real Analysis, Complex Analysis, Functional Analysis.
+    -> SET:: Set Theory | SO: collections of objects | EX: Axiomatic Set Theory, Descriptive Set Theory.
+    -> CAT:: Category Theory | SO: structures and relationships | EX: Homological Algebra, Topos Theory.
+  -> APPL:: Applied Mathematics | SO: practical application of mathematical methods | 
+    -> STAT:: Statistics | SO: data analysis and interpretation | EX: Descriptive, Inferential, Bayesian Statistics.
+    -> PROB:: Probability | SO: randomness and uncertainty | EX: Probability Theory, Stochastic Processes.
+    -> OPT:: Optimization | SO: finding optimal solutions under constraints | EX: Linear, Nonlinear, Combinatorial Optimization.
+    -> NUMA:: Numerical Analysis | SO: algorithms for approximating solutions | EX: Numerical Methods for Differential Equations.
+    -> MODE:: Mathematical Modeling | SO: representation of real-world systems | EX: Epidemiological Models, Economic Models.
+    -> OPS:: Operations Research | SO: decision-making and optimization | EX: Game Theory, Decision Analysis.
+    -> DISCR:: Discrete Mathematics | SO: countable structures | EX: Graph Theory, Combinatorics.
+    -> PHYSMATH:: Mathematical Physics | SO: application of mathematics in physics | EX: Quantum Mechanics.
+  -> LOGIC:: Logic | SO: valid reasoning and inference.
+    -> FORMLOG:: Formal Logic | SO: formal systems of reasoning | EX: Propositional, Predicate, Temporal Logic.
+    -> MATHEMLOG:: Mathematical Logic | SO: logic in mathematics | EX: Model Theory, Set Theory, Recursion Theory.
+    -> PHILLOG:: Philosophical Logic | SO: philosophical aspects of logic | EX: Modal, Epistemic, Deontic Logic.
+    -> COMPLLOG:: Computational Logic | SO: logic applied in computation | EX: Logic Programming, Automated Theorem Proving.
+  -> TCS:: Theoretical Computer Science | SO: foundations of computation and information processing.
+    -> ALGOS:: Algorithms | SO: procedures for solving problems | EX: Sorting, Searching, Graph Algorithms.
+    -> DATASTRUCT:: Data Structures | SO: ways to organize and store data | EX: Arrays, Linked Lists, Trees, Graphs.
+    -> COMPLEXITY:: Complexity Theory | SO: computational problem difficulty | EX: P vs NP Problem, Space Complexity.
+    -> AUTOMATA:: Automata Theory | SO: abstract machines | EX: Finite Automata, Turing Machines.
+    -> FORMLANG:: Formal Languages | SO: language syntax and rules | EX: Regular, Context-Free, Context-Sensitive Languages.
+    -> CRYPTO:: Cryptography | SO: secure communication techniques | EX: Symmetric-key, Asymmetric-key, Quantum Cryptography.
+    -> COMPSEC:: Computer Security | SO: protection of digital systems | EX: Network, OS, Database, Cyber-Physical Security.
+    -> INFO:: Information Theory | SO: quantification and transmission of information.
+      -> CODING:: Coding Theory | SO: error correction and data compression | EX: Error-Correcting Codes, Data Compression.
+      -> COMPR:: Information Compression | SO: methods to reduce data size | EX: Lossless, Lossy Compression.
+      -> CHCAP:: Channel Capacity | SO: maximum data transmission rate | EX: Shannon Capacity, Gaussian Channels.
+    -> GAME:: Game Theory | SO: strategic decision-making.
+      -> COOPGAME:: Cooperative Game Theory | SO: strategies with cooperative behavior.
+      -> NONCOOPGAME:: Non-Cooperative Game Theory | SO: strategies in competitive scenarios.
+      -> EVOGAME:: Evolutionary Game Theory | SO: strategies in evolutionary contexts.
+  
+PHYS:: Physics | SO: matter, energy, interactions.
+  -> CLASSMECH:: Classical Mechanics | SO: motion and forces | EX: Newton's Laws, Lagrangian Mechanics, Hamiltonian Mechanics.
+  -> THERMO:: Thermodynamics | SO: heat, work, energy | EX: Laws of Thermodynamics, Statistical Mechanics, Entropy.
+  -> ELECMAG:: Electromagnetism | SO: electric and magnetic fields | EX: Maxwell's Equations, Electrostatic Fields.
+  -> QUANTMECH:: Quantum Mechanics | SO: subatomic particles and wave-particle duality | EX: Schrödinger Equation, Quantum Field Theory.
+  -> RELAT:: Relativity | SO: space, time, gravity | EX: Special Relativity, General Relativity, Cosmology.
+  -> PARTPHYS:: Particle Physics | SO: fundamental particles and interactions | EX: Standard Model, Elementary Particles.
+  -> CONDMAT:: Condensed Matter Physics | SO: physical properties of matter | EX: Solid-State Physics, Soft Matter Physics.
+  -> ASTROPHYS:: Astrophysics | SO: celestial phenomena | EX: Stellar Evolution, Galaxies, Cosmology.
+  -> PLASMAPHYS:: Plasma Physics | SO: ionized gases | EX: Fusion, Magnetohydrodynamics.
+  -> BIOPHYS:: Biophysics | SO: application of physics principles to biological systems.
+
+CHEM:: Chemistry | SO: matter, properties, transformations.
+  -> ANALCHEM:: Analytical Chemistry | SO: material composition and structure | EX: Spectroscopy, Chromatography.
+  -> BIOCHEM:: Biochemistry | SO: chemical processes in living organisms | EX: Proteins, Enzymes, DNA.
+  -> INORGCHEM:: Inorganic Chemistry | SO: non-organic compounds and elements | EX: Bonding, Coordination Chemistry.
+  -> ORGCHEM:: Organic Chemistry | SO: carbon-based compounds and reactions.
+  -> PHYSCHEM:: Physical Chemistry | SO: physical properties of molecules | EX: Thermochemistry, Quantum Chemistry.
+  -> MATCHEM:: Materials Chemistry | SO: materials and their properties | EX: Nanomaterials, Polymers.
+  -> COMPCHEM:: Computational Chemistry | SO: computational methods for chemical analysis | EX: Molecular Dynamics, Quantum Chemistry.
+  -> GREENCHEM:: Green Chemistry | SO: sustainable and environmentally friendly chemical processes.
+
+EARTHSCI:: Earth Sciences | SO: Earth's physical systems.
+  -> GEOLOGY:: Geology | SO: Earth's composition and processes | EX: Mineralogy, Petrology, Geomorphology.
+  -> GEOPHYS:: Geophysics | SO: Earth's physical properties | EX: Seismology, Plate Tectonics.
+  -> OCEANOG:: Oceanography | SO: oceans and marine systems | EX: Ocean Currents, Physical Oceanography.
+  -> METEORO:: Meteorology | SO: weather and atmospheric patterns | EX: Weather Patterns, Climate Change.
+  -> PALEONTO:: Paleontology | SO: fossil record and ancient life forms.
+  -> ENVISC:: Environmental Science | SO: ecosystems and environmental conservation.
+    -> CLIMATO:: Climatology | SO: climate systems and historical climates | EX: Paleoclimatology.
+    -> HYDROGEO:: Hydrogeology | SO: groundwater systems and aquifers.
+    -> GLACIOL:: Glaciology | SO: glaciers and ice systems.
+
+LIFESCI:: Life Sciences | SO: living organisms.
+  -> BIO:: Biology | SO: life and biological processes.
+    -> BOT:: Botany | SO: plants | EX: Structure, Physiology, Taxonomy.
+    -> ZOO:: Zoology | SO: animals | EX: Structure, Physiology, Taxonomy.
+    -> MICRO:: Microbiology | SO: microorganisms | EX: Bacteria, Viruses, Fungi.
+    -> GENETICS:: Genetics | SO: heredity and genetic material | EX: DNA, Chromosomes.
+    -> MOLOBIO:: Molecular Biology | SO: molecular processes | EX: DNA Replication, Enzymes.
+    -> CELLBIO:: Cell Biology | SO: cellular structure and function | EX: Cell Cycle, Cellular Processes.
+    -> ECO:: Ecology | SO: ecosystems and organism interactions | EX: Biodiversity, Population Dynamics.
+    -> EVOBIO:: Evolutionary Biology | SO: evolution and speciation | EX: Natural Selection, Phylogeny.
+    -> DEVBIO:: Developmental Biology | SO: organism growth and development | EX: Embryology, Morphogenesis.
+    -> IMMUNO:: Immunology | SO: immune system and related disorders.
+    -> NEUROSCI:: Neuroscience | SO: brain and nervous system | EX: Neural Networks, Cognitive Neuroscience.
+    -> BIOINFO:: Bioinformatics | SO: computational tools to biological data | EX: Genomics, Proteomics.
+    -> SYSTEMBIO:: Systems Biology | SO: biological systems and networks.
+  -> ASTRON:: Astronomy | SO: celestial objects and phenomena.
+    -> OBSASTRON:: Observational Astronomy | SO: space through instruments | EX: Telescopes, Spectrographs.
+    -> THEOASTRON:: Theoretical Astronomy | SO: space phenomena using models | EX: Stellar Evolution, Galaxy Formation.
+    -> COSMO:: Cosmology | SO: universe's origin and evolution | EX: Big Bang, Dark Matter.
+    -> ASTROBIO:: Astrobiology | SO: extraterrestrial life and planetary habitability.
+
+ANTHRO:: Anthropology | SO: humankind and cultural, physical, social aspects.
+  -> CULTANTHRO:: Cultural Anthropology | SO: cultures, beliefs, rituals.
+  -> PHYSANTHRO:: Physical Anthropology | SO: human origins, evolution, bioarchaeology.
+  -> ARCHAEO:: Archaeology | SO: past societies through excavation and artifacts.
+  -> LINGANTHRO:: Linguistic Anthropology | SO: language, culture, communication.
+  -> ETHNO:: Ethnography | SO: fieldwork focusing on participant observation and cultural description.
+  -> SOCULTANTHRO:: Sociocultural Anthropology | SO: social structures, kinship, cultural dynamics.
+  -> MEDANTHRO:: Medical Anthropology | SO: health, illness, healthcare systems in cultural contexts.
+
+ECONOMICS:: Economics | SO: decision-making under scarcity.
+  -> MICROECON:: Microeconomics | SO: consumer behavior, firms, market dynamics.
+  -> MACROECON:: Macroeconomics | SO: economic growth, inflation, unemployment.
+  -> ECONOMET:: Econometrics | SO: statistical methods in economic analysis.
+  -> BEHAVECON:: Behavioral Economics | SO: psychological influences on economic decisions.
+  -> DEVECON:: Development Economics | SO: economic development, poverty, inequality.
+  -> INTERECON:: International Economics | SO: trade, finance, globalization.
+  -> HEALTHECON:: Health Economics | SO: healthcare systems and their economic impact.
+
+GEOGRAPHY:: Geography | SO: Earth's landscapes, peoples, environments.
+  -> PHYGEO:: Physical Geography | SO: climate, landforms, ecosystems.
+  -> HUMGEO:: Human Geography | SO: population, urbanization, cultural landscapes.
+  -> CARTO:: Cartography | SO: mapmaking and GIS technologies.
+  -> GEOINF:: Geoinformatics | SO: spatial data analysis and remote sensing.
+  -> ENVIGEO:: Environmental Geography | SO: human-environment interactions.
+
+POLSCI:: Political Science | SO: political systems, ideologies, behavior.
+  -> POLTHEORY:: Political Theory | SO: political ideas, philosophies, ideologies.
+  -> COMPOL:: Comparative Politics | SO: political systems and institutions analysis.
+  -> INTERREL:: International Relations | SO: diplomacy, states, international organizations.
+  -> PUBADMIN:: Public Administration | SO: governance, policy development, administration.
+  -> POLECON:: Political Economy | SO: economic policies and political influence.
+  -> POLPSYCH:: Political Psychology | SO: cognitive processes in political behavior.
+
+PSYCHO:: Psychology | SO: behavior and mental processes.
+  -> COGPSYCH:: Cognitive Psychology | SO: memory, perception, language.
+  -> DEVPSYCH:: Developmental Psychology | SO: human development across life stages.
+  -> SOCPSYCH:: Social Psychology | SO: group behavior, social influence, attitudes.
+  -> CLINPSYCH:: Clinical Psychology | SO: mental disorders and therapeutic treatments.
+  -> NEUROPSYCH:: Neuropsychology | SO: brain function and behavior relationships.
+  -> PERSPSYCH:: Personality Psychology | SO: personality traits and theories.
+  -> EDUCPSYCH:: Educational Psychology | SO: learning processes and instructional methods.
+  -> FOREPSYCH:: Forensic Psychology | SO: psychology in legal and criminal contexts.
+  -> HEALTHPSYCH:: Health Psychology | SO: psychological factors in health and behavior.
+  -> IOCPSYCH:: Industrial-Organizational Psychology | SO: workplace behavior and performance.
+
+SOCIOLOGY:: Sociology | SO: human social relationships and societal structures.
+  -> SOCIALTHEORY:: Social Theory | SO: sociological perspectives and concepts.
+  -> DEMOG:: Demography | SO: population trends and distributions.
+  -> SOCIALSTRAT:: Social Stratification | SO: inequality, class, status dynamics.
+  -> CRIMINO:: Criminology | SO: crime, deviance, justice systems.
+  -> URBANSOC:: Urban Sociology | SO: cities and urban life.
+  -> CULTSOC:: Cultural Sociology | SO: culture, media, arts in society.
+  -> ENVISOC:: Environmental Sociology | SO: environmental issues in social contexts.
+  -> SEDUCSOC:: Sociology of Education | SO: educational systems and their social impact.
+
+COMMSTUD:: Communication Studies | SO: message generation and meaning-making processes.
+  -> MASSCOMM:: Mass Communication | SO: media, journalism, advertising.
+  -> INTERCOMM:: Interpersonal Communication | SO: face-to-face and nonverbal communication.
+  -> ORGCOMM:: Organizational Communication | SO: communication within organizations.
+  -> PUBREL:: Public Relations | SO: strategic communication and media relations.
+
+LAW:: Law | SO: rules for societal order and justice.
+  -> CRIMLAW:: Criminal Law | SO: offenses, penalties, justice system.
+  -> CIVLAW:: Civil Law | SO: contracts, property, tort law.
+  -> INTERLAW:: International Law | SO: treaties, diplomacy, human rights.
+  -> CONSTLAW:: Constitutional Law | SO: government structure and individual rights.
+
+HISTORY:: History | SO: past civilizations, events, cultural developments.
+  -> ANCIHIST:: Ancient History | SO: early civilizations, empires | EX: Cultural, political, economic systems.
+  -> MEDIHIST:: Medieval History | SO: Middle Ages | EX: Feudalism, the Church, knights, cultural developments.
+  -> MODHIST:: Modern History | SO: Renaissance to globalization | EX: Revolutions, industrialization, wars.
+  -> ARTHIST:: Art History | SO: visual arts and their significance | EX: Cultural, aesthetic, historical aspects.
+  -> HISTSCI:: History of Science | SO: scientific progress, discoveries | EX: Historical contexts.
+  -> SOCHIST:: Social History | SO: everyday life, gender, race, class, social movements.
+  -> MILHIST:: Military History | SO: wars, strategies, technologies, leaders.
+  -> ECOHIST:: Economic History | SO: economic systems, trade, industrialization.
+  -> INTELHIST:: Intellectual History | SO: ideas, movements, cultural and philosophical impacts.
+
+LINGUISTICS:: Linguistics | SO: language structure, use, development.
+  -> PHONETICS:: Phonetics | SO: speech sounds, physical and acoustic properties.
+  -> PHONOLOGY:: Phonology | SO: sound systems and patterns in languages.
+  -> MORPHO:: Morphology | SO: word formation and structure | EX: Morphemes, affixes.
+  -> SYNTAX:: Syntax | SO: sentence structure and grammatical rules.
+  -> SEMANTICS:: Semantics | SO: meaning in language | EX: Lexical, compositional semantics.
+  -> PRAGMATICS:: Pragmatics | SO: language use in context | EX: Speech acts, implicatures.
+  -> HISTLING:: Historical Linguistics | SO: language change and development over time.
+  -> SOCIOLING:: Sociolinguistics | SO: language in relation to society | EX: Variation, identity.
+  -> COMPLING:: Computational Linguistics | SO: language processing using computational methods.
+  -> APPLLING:: Applied Linguistics | SO: language acquisition, teaching, technology.
+
+LITERATURE:: Literature | SO: written works, artistry, cultural significance.
+  -> POETRY:: Poetry | SO: verse forms, imagery, symbolic expression.
+  -> PROSE:: Prose | SO: narrative forms | EX: Novels, essays, short stories.
+  -> DRAMA:: Drama | SO: theatrical works, structures, themes, performance.
+  -> LITTHEORY:: Literary Theory | SO: critical approaches to interpreting texts.
+  -> COMPLIT:: Comparative Literature | SO: cross-cultural literary themes, influences, genres.
+  -> CREATIVEWRITE:: Creative Writing | SO: crafting fiction, poetry, dramatic works.
+
+PHILOSOPHY:: Philosophy | SO: fundamental questions about knowledge, existence, ethics.
+  -> METAPHYS:: Metaphysics | SO: reality, existence, nature of being.
+  -> EPISTEM:: Epistemology | SO: knowledge, belief, justification.
+  -> ETHICS:: Ethics | SO: morality, values, ethical theories.
+  -> AESTH:: Aesthetics | SO: beauty, art, subjective experience.
+  -> LOGICPHIL:: Logic | SO: reasoning, argument structure, validity.
+  -> POLPHIL:: Political Philosophy | SO: justice, rights, nature of government.
+  -> MINDPHIL:: Philosophy of Mind | SO: consciousness, mental states, identity.
+  -> LANGPHIL:: Philosophy of Language | SO: meaning, reference, communication.
+  -> SCIENCEPHIL:: Philosophy of Science | SO: scientific methods, progress, values.
+  -> TECHPHIL:: Philosophy of Technology | SO: technology’s impact on society and ethics.
+  
+RELIGIOUSSTUD:: Religious Studies | SO: religious beliefs, practices, institutions.
+  -> COMPREL:: Comparative Religion | SO: world religions, rituals, sacred texts.
+  -> THEOLOGY:: Theology | SO: God, doctrine, faith.
+  -> RELISHIST:: Religious History | SO: historical religious movements and institutions.
+  -> PHILREL:: Philosophy of Religion | SO: arguments about God's existence, religious language.
+  -> RELIETHICS:: Religious Ethics | SO: moral principles within religious contexts.
+
+ARTS:: Arts | SO: creative human expression.
+  -> VISUALARTS:: Visual Arts | SO: painting, sculpture, drawing, photography, digital media.
+    -> PAINTING:: Painting | SO: artistic techniques and media | EX: Oil, watercolor.
+    -> SCULPTURE:: Sculpture | SO: three-dimensional artistic forms and materials.
+    -> DRAWING:: Drawing | SO: line, form, texture in visual representation.
+    -> PHOTOGRAPHY:: Photography | SO: visual composition and light in capturing images.
+    -> DIGITALART:: Digital Art | SO: art using digital tools | EX: 3D modeling, animation.
+    -> GRAPHICDESIGN:: Graphic Design | SO: visual communication | EX: Typography, layout.
+  -> PERFORMINGARTS:: Performing Arts | SO: music, dance, theatre, opera.
+    -> MUSIC:: Music | SO: melody, harmony, rhythm in various genres.
+    -> DANCE:: Dance | SO: movement and expression in choreographed performances.
+    -> THEATRE:: Theatre | SO: dramatic arts | EX: Acting, stagecraft.
+    -> OPERA:: Opera | SO: musical storytelling | EX: Singing, orchestration.
+  -> APPLIEDARTS:: Applied Arts | SO: design fields | EX: Architecture, fashion, industrial design.
+    -> ARCHITECTURE:: Architecture | SO: building design and urban planning.
+    -> FASHIONDESIGN:: Fashion Design | SO: clothing and accessory creation, trends.
+    -> INDUSTRIALDESIGN:: Industrial Design | SO: product design | EX: Functionality, aesthetics.
+  -> CRAFT:: Craft | SO: traditional handmade art forms | EX: Pottery, jewelry.
+  -> FILMMAKING:: Filmmaking | SO: storytelling through motion pictures | EX: Cinematography, editing.
+
+ENGINEERING:: Engineering | SO: application of science and mathematics to solve problems, design systems.
+  -> MECHENG:: Mechanical Engineering | SO: machines, engines, robotics, thermodynamics, materials, manufacturing.
+  -> ELECENG:: Electrical Engineering | SO: circuits, electronics, power systems, telecommunications, signal processing, control systems.
+  -> CIVILENG:: Civil Engineering | SO: infrastructure design and construction | EX: Bridges, buildings, transportation, water systems.
+  -> CHEMENG:: Chemical Engineering | SO: manufacturing chemicals, reaction engineering, thermodynamics, separation processes.
+  -> AEROENG:: Aerospace Engineering | SO: aircraft, spacecraft, propulsion systems, control systems.
+  -> BIOMEDENG:: Biomedical Engineering | SO: medical devices, biomaterials, medical imaging, neural engineering.
+  -> ENVENG:: Environmental Engineering | SO: water treatment, air pollution control, waste management, sustainability.
+  -> COMPENG:: Computer Engineering | SO: hardware, software, embedded systems, computer architecture.
+  -> MATEENG:: Materials Engineering | SO: materials properties, processing, applications | EX: Polymers, ceramics, composites.
+  -> NUCENG:: Nuclear Engineering | SO: nuclear reactions, reactor design, radiation safety, nuclear medicine.
+  -> INDUSTRIALENG:: Industrial Engineering | SO: optimization of processes, systems, human factors in manufacturing and operations.
+  -> SYSTEMENG:: Systems Engineering | SO: integration and management of complex systems | EX: Modeling, validation, risk management.
+  -> CS:: Computer Science | SO: computation, algorithms, software engineering, artificial intelligence.
+    -> SOFTENG:: Software Engineering | SO: design, development, testing, maintenance of software systems.
+    -> AI:: Artificial Intelligence | SO: machine learning, natural language processing, robotics.
+    -> DB:: Database Systems | SO: data storage, retrieval, analysis systems.
+    -> COMPGR:: Computer Graphics | SO: 3D modeling, animation, rendering, visualization.
+    -> COMPNET:: Computer Networks | SO: networking protocols, security, wireless systems, cloud computing.
+    -> CYBERSEC:: Cybersecurity | SO: protection against unauthorized access, data breaches, cyber threats.
+    -> COMPBIO:: Computational Biology | SO: genomics, proteomics, biological modeling.
+    -> DATASCI:: Data Science | SO: big data analysis, machine learning, visualization, predictive modeling.
+    -> INFORET:: Information Retrieval | SO: search engine development, text mining, information extraction.
+    -> HCI:: Human-Computer Interaction | SO: user interface design, usability, accessibility.
+    -> QUANTCOMP:: Quantum Computing | SO: quantum algorithms, cryptography, quantum simulation.
+    -> IOT:: Internet of Things (IoT) | SO: connected devices, smart systems, data collection, analysis.
+    -> IT:: Information Technology (IT) | SO: management of information systems, databases, network infrastructures.
+    -> INFOSYS:: Information Systems | SO: integration of IT and business processes | EX: Decision-making, analytics.
+    -> WEBDEV:: Web Development | SO: web applications, front-end, back-end systems.
+    -> MOBILEDEV:: Mobile App Development | SO: applications for mobile platforms.
+    -> CLOUDCOMP:: Cloud Computing | SO: infrastructure, storage, processing in virtualized environments.
+    -> NETADMIN:: Network Administration | SO: management and security of network infrastructures, protocols.
+    -> DBADMIN:: Database Administration | SO: maintenance, optimization of database systems, query performance.
+    -> BLOCKCHAIN:: Blockchain Technology | SO: distributed ledgers, smart contracts.
+    -> BIOTECH:: Biotechnology | SO: biological processes for industrial, agricultural, medical applications.
+      -> GENENG:: Genetic Engineering | SO: gene editing and modification | EX: CRISPR.
+      -> BIOPROCENG:: Bioprocess Engineering | SO: bioreactors, fermentation processes for industrial use.
+      -> BIOINFO:: Bioinformatics | SO: analysis of biological data using computational tools.
+      -> PHARMBIOTECH:: Pharmaceutical Biotechnology | SO: biopharmaceuticals, drug delivery systems.
+      -> AGROBIOTECH:: Agricultural Biotechnology | SO: crop improvement, agricultural systems through genetic modification.
+      -> ENVBIOTECH:: Environmental Biotechnology | SO: bioremediation, waste management using biological processes.
+      -> SYNBIO:: Synthetic Biology | SO: design and creation of new biological systems, synthetic cells.
+    -> MATSCI:: Materials Science | SO: properties and applications of materials | EX: Metals, polymers, ceramics.
+    -> NANOTECH:: Nanotechnology | SO: nanomaterials, devices for medical, industrial, electronic applications.
+    -> POLYSCI:: Polymer Science | SO: polymer materials | EX: Chemistry, physics, processing.
+    -> CERAMICS:: Ceramics | SO: ceramic materials for structural, electronic, biomedical applications.
+    -> METALLURGY:: Metallurgy | SO: metals, alloys, processing, corrosion control.
+    -> ENVIROTECH:: Energy and Environmental Technology | SO: renewable energy, pollution control, sustainable practices.
+      -> RENEWABLE:: Renewable Energy | SO: solar, wind, biomass, geothermal energy sources.
+      -> SUSTDEV:: Sustainable Development | SO: environmental protection, resource conservation for long-term viability.
+      -> WASTEMAN:: Waste Management | SO: waste reduction, recycling, energy recovery.
+      -> POLLCTRL:: Pollution Control | SO: prevention and remediation of air, water, soil pollution.
+      -> CLIMATEENG:: Climate Engineering | SO: technologies for mitigating and adapting to climate change.
+      -> ENERSTOR:: Energy Storage | SO: batteries, supercapacitors, fuel cells for energy storage.
+
+COGSCI:: Cognitive Science | SO: mind, brain, cognition | EX: perception, memory, language, decision-making.
+ENVSTUD:: Environmental Studies | SO: ecosystems, sustainability, climate change, biodiversity, environmental policies.
+GENDERSTUD:: Gender Studies | SO: gender, identity, sexuality, feminism, masculinity, intersectionality.
+GLOBALSTUD:: Global Studies | SO: globalization, international relations, culture, inequality, migration, transnational issues.
+URBANSTUD:: Urban Studies | SO: cities, urban planning, urban design, infrastructure, housing, public spaces.
+DIGIHUM:: Digital Humanities | SO: digital tools in humanities research | EX: text analysis, data visualization, network analysis.
+BIOETHICS:: Bioethics | SO: ethical issues in medicine, biology, biotechnology | EX: genetics, cloning, end-of-life care.
+STS:: Science, Technology, and Society (STS) | SO: relationship between science, technology, society | EX: ethics, risks, public understanding.
+NEUROLING:: Neurolinguistics | SO: brain-language relationships | EX: speech production, perception, language disorders.
+ASTROBIO:: Astrobiology | SO: life in the universe | EX: extraterrestrial life, habitable zones, planetary systems.
+BIOMIM:: Biomimetics | SO: nature-inspired engineering, design, innovation | EX: sustainable development.
+ROBOTICS:: Robotics | SO: robots, automation, machine learning, control systems, human-robot interaction.
+NANOMED:: Nanomedicine | SO: nanotechnology in medicine | EX: drug delivery, diagnostics, nanomaterials.
+ALIFEL:: Artificial Life | SO: synthetic systems exhibiting lifelike properties | EX: self-organization, complexity, evolution.
+COMPSOCSCI:: Computational Social Science | SO: modeling and analyzing social systems, networks, agent-based simulations.
+NETSCI:: Network Science | SO: complex networks in social, biological, technological systems | EX: graph theory, network dynamics.
+DATASCI:: Data Science | SO: data analysis, machine learning, big data, predictive modeling | EX: decision-making.
+SUSTAINSTUD:: Sustainability Studies | SO: sustainability in environmental, social, economic systems.
+TRANSHUMAN:: Transhumanism | SO: human enhancement through technology | EX: biotechnology, AI, ethics.
+HEALTHINFO:: Health Informatics | SO: IT in healthcare | EX: electronic health records, telemedicine, patient data management.
+EPI:: Epidemiology | SO: diseases, distribution, risk factors, prevention, health policy.
+FORENSCI:: Forensic Science | SO: scientific methods in legal investigations | EX: DNA analysis, toxicology, ballistics.
+PARAPSYCH:: Parapsychology | SO: paranormal phenomena | EX: extrasensory perception, telepathy, psychokinesis.
+UFOL:: Ufology | SO: unidentified flying objects (UFOs), extraterrestrial life, related phenomena.
+CRYPTOZOO:: Cryptozoology | SO: mythical or hidden animals | EX: Bigfoot, Loch Ness Monster, unknown species.
